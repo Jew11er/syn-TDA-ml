@@ -1,10 +1,9 @@
-# Alpha-synuclein TDA ML Project
+# Alpha-synuclein TDA Project
 
-This project applies **topological data analysis (TDA)** features and machine learning (ML) 
-methods to study the distribution of α-synuclein in cells, focusing on the role of UBL3.
+This project applies **topological data analysis (TDA)** features to study the distribution of α-synuclein in cells, focusing on the role of UBL3.
 
 ## Project Structure
-- `notebooks/`: Jupyter notebooks for exploration (baseline SVM, Random Forest, etc.)
+- `notebooks/`: Jupyter notebooks for exploration.
 - `src/`: Python scripts for preprocessing, training, and evaluation
 - `data/`: Example datasets (keep small, <10MB, larger files should not be uploaded)
 - `requirements.txt`: Python dependencies
